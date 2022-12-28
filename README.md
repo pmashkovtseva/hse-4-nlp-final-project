@@ -31,9 +31,9 @@
 
 * краткое описание:
 * мотивация:
-* оценка:
+* оценка: accuracy 0.91
 * об ошибках:
-* файлы: [модель](https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f)
+* файлы: [обучение](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab-project-asp-sent-train.ipynb), [модель](https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f), [оценка на тестовых данных](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab_asp_sent_testing.ipynb)
 
 ## 3.2.
 
