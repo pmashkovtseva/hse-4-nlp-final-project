@@ -15,43 +15,43 @@
 
 ### 3.1. CRF
 
-* краткое описание:
-* мотивация:
-* оценка:
-* об ошибках:
-* файлы:
+* *краткое описание:*
+* *мотивация:*
+* *оценка:*
+* *об ошибках:*
+* *файлы:*
 
 ### 3.2. LSTM
 
-* краткое описание:
-* мотивация:
-* оценка:
-* об ошибках:
-* файлы:
+* *краткое описание:*
+* *мотивация:*
+* *оценка:*
+* *об ошибках:*
+* *файлы:*
 
 ## 4. Эксперименты с определением тональности
 
 ### 4.1. BERT с файн-тюнингом
 
-* краткое описание:
-* мотивация:
-* оценка: accuracy 0.91
-* об ошибках:
-* файлы: [обучение](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab-project-asp-sent-train.ipynb), [модель](https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f), [оценка на тестовых данных](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab_asp_sent_testing.ipynb)
+* *краткое описание:*
+* *мотивация:*
+* *оценка:* accuracy 0.91
+* *об ошибках:*
+* *файлы:* [обучение](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab-project-asp-sent-train.ipynb), [модель](https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f), [оценка на тестовых данных](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab_asp_sent_testing.ipynb)
 
 ### 4.2.
 
-* краткое описание:
-* мотивация:
-* оценка:
-* об ошибках:
-* файлы:
+* *краткое описание:*
+* *мотивация:*
+* *оценка:*
+* *об ошибках:*
+* *файлы:*
 
 ## 5. Определение общей тональности
 
-* краткое описание:
-* мотивация: кажется, самый интуитивный способ выполнения подобной задачи - составить общую картину из частных проявлений.
-* файлы: 
+* *краткое описание:*
+* *мотивация:* кажется, самый интуитивный способ выполнения подобной задачи - составить общую картину из частных проявлений.
+* *файлы:* 
 
 ## 6. Итоговые файлы
 
