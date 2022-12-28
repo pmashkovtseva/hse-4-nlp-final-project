@@ -33,7 +33,7 @@
 * мотивация:
 * оценка:
 * об ошибках:
-* файлы: https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f[модель]
+* файлы: [модель](https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f)
 
 ## 3.2.
 
