@@ -56,4 +56,4 @@
 ## 6. Итоговые файлы
 
 1.
-2. [разметка тональности по категориям](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/ab_dev_cats.txt)
+2. [разметка тональности по категориям](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/results/ab_dev_cats.txt)
