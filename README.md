@@ -70,3 +70,13 @@
 
 1. [разметка аспектов](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/results/aspects_%D1%81rf.tsv)
 2. [разметка тональности по категориям](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/results/ab_dev_cats.txt)
+
+
+## 7. Распределение обязанностей
+
+Полина Черноморченко - BERT 4.1, определение общей тональности
+Полина Машковцева - CRF, заполнение отчета
+Татьяна Перевощикова - тональный словарь, BERT 4.3
+Александра Шахнова - LSTM
+
+Все - обсуждение данных, методов, метрик, ошибок и способов улучшения моделей
