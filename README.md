@@ -27,7 +27,7 @@
 * *мотивация:*
 * *оценка:*
 * *об ошибках:*
-* *файлы:*
+* *файлы:* [тетрадка](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/aspects/crf/lstm/aspect.ipynb)
 
 ## 4. Эксперименты с определением тональности
 
