@@ -37,7 +37,7 @@
 * *мотивация:* данный метод был выбран, поскольку в нашем распоряжении имелось значительное количество данных
 * *оценка:* accuracy 0.91
 * *об ошибках:* (скорее feature work) - возможно, увеличение train'a аугментацией повысило бы результирующее качество
-* *файлы:* [обучение](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab-project-asp-sent-train.ipynb), [модель](https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f), [оценка на тестовых данных](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/ab_asp_sent_testing.ipynb)
+* *файлы:* [обучение](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/4.1/ab-project-asp-sent-train.ipynb), [модель](https://drive.google.com/drive/folders/1NtrsdLmdyGRZKDeJoTePSX7Fh2bxdw6f), [оценка на тестовых данных](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/sentiment/bert/4.1/ab_asp_sent_testing.ipynb)
 
 ### 4.2. Использование тонального словаря
 
