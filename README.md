@@ -68,5 +68,5 @@
 
 ## 6. Итоговые файлы
 
-1.
+1. [разметка аспектов](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/results/aspects_%D1%81rf.tsv)
 2. [разметка тональности по категориям](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/results/ab_dev_cats.txt)
