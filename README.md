@@ -27,7 +27,7 @@
 * *мотивация:* задачу выделения аспектов, как и любую задачу выделения сущностей, легко свести к обучению модели на разметке BIO; кроме того, использование эмбеддингов может помочь модели использовать информацию о предложении и токенах в нем
 * *оценка:*
 * *об ошибках:*
-* *файлы:* [тетрадка](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/aspects/crf/lstm/aspect.ipynb)
+* *файлы:* [тетрадка](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/aspects/lstm/aspect.ipynb)
 
 ## 4. Эксперименты с определением тональности
 
