@@ -19,7 +19,7 @@
 * *мотивация:* задачу выделения аспектов, как и любую задачу выделения сущностей, легко свести к обучению модели на разметке BIO, и для этого традиционно используется CRF, т.к. на всем корпусе у него получаются хорошие показатели.
 * *оценка:* accuracy 0.9 на тегах, считая О (из трейт-тест сплита)
 * *об ошибках:*
-* *файлы:*
+* *файлы:* [обучение](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/aspects/crf/apects_crf_train.ipynb), [модель](https://github.com/pmashkovtseva/hse-4-nlp-final-project/blob/main/aspects/crf/crf.sav)
 
 ### 3.2. LSTM
 
